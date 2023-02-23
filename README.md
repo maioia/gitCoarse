@@ -1,4 +1,5 @@
 # gitCoarse
 practice coarse
 
-#project notes
+# project notes
+notes
